@@ -6,10 +6,12 @@ This is a engineering team generator. The application will prompt the user for i
 https://drive.google.com/file/d/1W1tuviTZ1m_pSPtMQFbuND0mAm14NaBW/view
 
 
-
 ## Passed Tests
-![PassedTests](./teamprofilegenerator/Assets/passedtest.png)
+![PassedTests](./Assets/PassedTests.png)
 
+
+## Screenshot of Team Roster
+![ScreenShotOfOutput](./Assets/ScreenShotOfOuput.png)
 
 ### Roster output
 
