@@ -9,8 +9,8 @@ https://drive.google.com/file/d/1W1tuviTZ1m_pSPtMQFbuND0mAm14NaBW/view
 
 
 ## Passed Tests
+teamProfileGenerator/Assets/Screen Shot 2020-09-15 at 11.50.13 AM.png
 
-/Users/seanwatson/Desktop/CodingBootCamp/teamProfileGenerator/Assets/Screen Shot 2020-09-15 at 11.43.10 AM.png
 
 ### Roster output
 
